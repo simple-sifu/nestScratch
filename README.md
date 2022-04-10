@@ -10,6 +10,7 @@
 # Contains vast majority of functions, classes, etc, that we need from Nest
 
 @nestjs/common@7.6.17
+
 @nestjs/core@7.6.17
 
 # Lets Nest use Express JS for handling HTTP requests
