@@ -1,7 +1,10 @@
 > mkdir scratch
+
 > npm init -y
+
 > ls
 > package.json
+
 > npm install
 
 # Contains vast majority of functions, classes, etc, that we need from Nest
