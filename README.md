@@ -5,23 +5,25 @@
 > ls
 > package.json
 
-> npm install
+# libraries needed
 
-# Contains vast majority of functions, classes, etc, that we need from Nest
+1. Contains vast majority of functions, classes, etc, that we need from Nest
 
 @nestjs/common@7.6.17
 
 @nestjs/core@7.6.17
 
-# Lets Nest use Express JS for handling HTTP requests. This is an express adapter
+2. Lets Nest use Express JS for handling HTTP requests. This is an express adapter
 
 @nestjs/platform-express@7.6.17
 
-# Helps make decorators work.
+3. Helps make decorators work.
 
 reflect-metadata@0.1.13
 
 typescript@4.3.2
+
+# outline of course
 
 1. Install deps
 2. Setup Typescript compiler settings. see tsconfig.json
