@@ -27,7 +27,7 @@
 
 > typescript@4.3.2
 
-# Outline of course
+# Outline of hard stuff first
 
 1. Install deps
 2. Setup Typescript compiler settings. see tsconfig.json
@@ -51,3 +51,5 @@
 6. **Guards** - handles authentication
 7. **Interceptors** - add extra logic to incoming requests or outgoing responses
 8. **Repositories** - handles data stored in DB
+
+npx ts-node src/main.ts
